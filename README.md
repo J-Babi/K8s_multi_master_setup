@@ -1,6 +1,4 @@
-#
-# Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226
-## Agenda: Multi Master K8's Cluster Setup Using Kubeadm In AWS EC2 Ubuntu Servers
+# Multi Master K8's Cluster Setup Using Kubeadm In AWS EC2 Ubuntu Servers
 ---
 ### What is Kubeadm ? 
 Kubeadm is a tool built to provide kubeadm init and kubeadm join as best-practice  for creating Kubernetes clusters. kubeadm performs the actions necessary to get a cluster up and running.
@@ -342,4 +340,4 @@ kubectl get nodes
 
 ```
 ---
-# Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226
+
